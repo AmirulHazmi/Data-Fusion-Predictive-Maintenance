@@ -1,0 +1,87 @@
+File,Issue,Date,Details
+2010875,Software,1/4/2020,"1) Hang issue
+2) System recovered"
+2010876,Software,3/4/2020,"1) No hang issue
+2) System hang once
+3) No abnormalities
+4) Further do test"
+2010879,None,8/4/2020,"1) Checked mounting bolts. All ok. 
+2) Checked AC and DC voltages. All within range. ok. 
+3) Checked and cleaned slit section. ok. 
+4) Checked and cleaned large current slip ring. ok. 
+5) Cleaned all fans and filters. ok. 
+6) General cleaning on gantry, couch, console box. ok. 
+7) Performed IF adjustment. ok. 
+8) Performed NRA calibration for all for. ok. 
+9) Image quality checked. All ok. 
+10) System is in good working condition. ok. 
+11) EST done, All pass. ok."
+2012825,None,20/9/2020,"1) Checked mounting bolts. All OK. 
+2) Checked AC and DC voltages. All normal. ok. 
+3) Checked and cleaned all fans and filters. ok. 
+4) Checked and cleaned large current slip ring. ok. 
+5) General cleaning on gantry, couch, navi assy. ok. 
+6) Performed If adjustment. ok. 
+7) Performed NRA calibration. ok. 
+8) Performed image quality check. All ok. 
+9) EST pass. ok. 
+10) System is in good operation condition. ok. "
+2012826,Gantry,27/9/2020,"1) Removed existing x-ray tube with the heat exchanger. ok.
+2) Installed new X-ray tube with Heat exchanger. ok. 
+3) Secured all cable and connections. ok. 
+4) Test scan done. All ok. 
+5) Performed If adjustment. ok. 
+6) Performed x-ray tube alignment. All within range. ok. 
+7) Performed x-ray tube seasoning. ok 
+8) Performed NRA and air calibration. ok. 
+9) Image quality checked. All within specification. ok. 
+10) QA for new tube was done by QA accessor, Mr Fazmil. ok. 
+11) All the QA tests pass and within specification and regulation. ok. 
+12) System is up and operational. ok. "
+2014759,Mechanical,22/9/2020,"1) Checked the sound with end user.
+2) Sound (clicking sound) only happens when the gantry stop rotates. ok. 
+3) Explained to end user that it is the brake engagement. ok. 
+4) User request to remove the sound if possible. ok. 
+5) Release the auto home brake. ok. 
+6) No more mechanical brake sound when gantry stop rotate. ok."
+2014760,Software,27/7/2020,"1) Checked the log, no error was recorded. ok. 
+2) Checked the raw data, and rescan again, no issue, however, it was found that the scanning was a short distance instead of full distance of patient. ok. 
+3) Explained to end user that if the system detects an error during arterial phase, it will prompt an error and would not continue scanning the venous phase. ok. 
+4) will monitor if it happens again. ok."
+2014761,Gantry,27/5/2020,"1) Checked log and found arcing error. ok. 
+2) Performed If adjustment. If points shifted. ok. 
+3) Discuss with end user that if it happens again, we will prepare for x-ray tube replacement. ok. 
+4) otherwise, system is still able to perform scanning. one time error. ok. 
+5) will monitor closely and regularly. ok. "
+2014762,Mechanical,8/5/2020,"1) Checked physical. Found that the table cannot move horizontally - OK 
+2) Found that the table hands free holder is touching the base of the couch cover - OK  
+3) Readjust the clearance. Table can move in and out without stuck and no more error in table movement - OK  "
+2017507,Gantry,10/4/2021,"1) Removed the existing x-ray tube - OK 
+2) Installed the new x-ray tube - OK
+3) Secure all cables and connection - OK
+4) Test scan done. All ok, performed full warm up - OK 
+5) Performed If adjustment - OK 
+6) Performed X-ray tube alignment - OK
+7) Performed NRA calibration - OK 
+8) Image quality checked  - All OK
+9) QC test done - All pass OK 
+10) EST done: i)Enclosure leakage: 7uA ii) Patient leakage: 0ua. } pass. 
+11) System is in good working condition - OK"
+2018444,Software,8/12/2023,"1) Checks found the symptoms above 
+2) Check log found Rotsory Comminication error occur
+3) Check the error code on GCIFA found previos error ocuur on Channel 4
+4) Perform MUDAT Test no error ocuur on DCA
+5) Check raw data E3 for mudat error , no error found due to error didn't occur during scaning
+6) Reset cable at OPCONTA GCIFA OK
+7) KIV the symptom 1 week "
+2025423,None,7/2/2024,"1) Checked all the scan images on 7/2/2024 - most of the scan have multiple line artifact
+2) Checked the output and offset data - OK
+3) Compare reference output graph with good image data and bad image data
+4) Found reference graph output for bad image data abnormal
+5) Confirmed CT value with phantom scan - OK
+6) Replaced the new Reference Detector for trouble shooting purpose
+7) Found no more multiple line artifact at scan image
+8) Checked reference output graph - OK
+9) Confirmed the symptom due to faulty reference detector
+10) Faulty part replaced under leasing project
+11) Performed electrical safety test - OK"

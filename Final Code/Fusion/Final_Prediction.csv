@@ -1,0 +1,172 @@
+Index,Date Created,Maintenance,IoT Risk level,Sound Risk level,Predicted Risk Level,Prediction
+1,7/7/2023,Maintenance have been done,0.2742856,7,2.2228568,Low Risk
+2,8/7/2023,Maintenance have been done,0.446406,4,2.139218,Low Risk
+3,9/7/2023,Maintenance have been done,0.41536537,10,3.24609611,Low Risk
+4,10/7/2023,Maintenance have been done,0.72036767,5,3.16110301,Low Risk
+5,17/7/2023,Maintenance have been done,0.8508114,1,2.7524342,Low Risk
+6,18/7/2023,Maintenance have been done,0.6416766,8,3.5250298000000004,Low Risk
+7,19/7/2023,Maintenance have been done,0.5110646,6,2.7331938,Low Risk
+8,20/7/2023,Maintenance have been done,0.51434475,3,2.1430342500000004,Low Risk
+9,21/7/2023,Maintenance have been done,0.47742698,9,3.23228094,Low Risk
+10,22/7/2023,Maintenance have been done,0.2602501,2,1.1807503000000001,Low Risk
+11,23/7/2023,Maintenance have been done,0.30522364,7,2.31567092,Low Risk
+12,24/7/2023,Maintenance have been done,0.39307198,4,1.97921594,Low Risk
+13,25/7/2023,Maintenance have been done,0.40854698,10,3.22564094,Low Risk
+14,26/7/2023,Maintenance have been done,0.41916353,5,2.2574905899999997,Low Risk
+15,27/7/2023,Maintenance have been done,0.19249485,1,0.77748455,Low Risk
+16,28/7/2023,Maintenance have been done,0.49015507,8,3.07046521,Low Risk
+17,29/7/2023,Maintenance have been done,0.37441668,6,2.3232500400000005,Low Risk
+18,30/7/2023,Maintenance have been done,0.29660273,3,1.48980819,Low Risk
+19,31/7/2023,Maintenance have been done,0.29596198,9,2.68788594,Low Risk
+20,1/8/2023,Maintenance have been done,0.44540244,2,1.73620732,Low Risk
+21,2/8/2023,Maintenance have been done,0.44095853,7,2.72287559,Low Risk
+22,3/8/2023,Maintenance have been done,0.59968704,4,2.59906112,Low Risk
+23,4/8/2023,Maintenance have been done,0.44026458,10,3.32079374,Low Risk
+24,5/8/2023,Maintenance have been done,0.4364301,5,2.3092903,Low Risk
+25,6/8/2023,Maintenance have been done,0.54241294,1,1.8272388199999998,Low Risk
+26,7/8/2023,Maintenance have been done,0.49140352,5,2.47421056,Low Risk
+27,8/8/2023,Maintenance have been done,0.5006354,3,2.1019062,Low Risk
+28,9/8/2023,Maintenance have been done,0.6870899,6,3.2612697,Low Risk
+29,10/8/2023,Maintenance have been done,0.5388451,9,3.4165352999999996,Low Risk
+30,11/8/2023,Maintenance have been done,0.52770144,5,2.58310432,Low Risk
+31,12/8/2023,Maintenance have been done,0.4335193,2,1.7005579000000002,Low Risk
+32,13/8/2023,Maintenance have been done,0.36625263,8,2.6987578900000004,Low Risk
+33,14/8/2023,Maintenance have been done,0.51605046,10,3.54815138,Low Risk
+34,15/8/2023,Maintenance have been done,0.40289137,4,2.0086741100000003,Low Risk
+35,16/8/2023,Maintenance have been done,0.32136542,7,2.36409626,Low Risk
+36,17/8/2023,Maintenance have been done,0.4950546,1,1.6851638,Low Risk
+37,18/8/2023,Maintenance have been done,0.44206977,6,2.52620931,Low Risk
+38,19/8/2023,Maintenance have been done,0.4467485,3,1.9402455,Low Risk
+39,20/8/2023,Maintenance have been done,0.46301413,9,3.18904239,Low Risk
+40,21/8/2023,Maintenance have been done,0.36476964,2,1.49430892,Low Risk
+41,22/8/2023,Maintenance have been done,0.5260411,7,2.9781233,Low Risk
+42,23/8/2023,Maintenance have been done,0.57010967,4,2.5103290100000004,Low Risk
+43,24/8/2023,Maintenance have been done,0.96343535,10,4.8903060499999995,Medium Risk
+44,25/8/2023,Maintenance have been done,0.8530055,8,4.1590165,Medium Risk
+45,26/8/2023,Maintenance have been done,0.39544934,5,2.18634802,Low Risk
+46,27/8/2023,Maintenance have been done,0.4726484,1,1.6179452,Low Risk
+47,28/8/2023,Maintenance have been done,0.42413688,6,2.47241064,Low Risk
+48,29/8/2023,Maintenance have been done,0.43813783,3,1.91441349,Low Risk
+49,30/8/2023,Maintenance have been done,0.4798308,8,3.0394924000000003,Low Risk
+50,31/8/2023,Maintenance have been done,0.49478614,9,3.2843584200000002,Low Risk
+51,1/9/2023,Maintenance have been done,0.30282557,2,1.3084767099999999,Low Risk
+52,2/9/2023,Maintenance have been done,0.802618,7,3.8078540000000007,Low Risk
+53,4/9/2023,Maintenance have been done,0.7261683,10,4.1785049,Medium Risk
+54,5/9/2023,Maintenance have been done,0.4855979,5,2.4567937,Low Risk
+55,6/9/2023,Maintenance have been done,0.41648787,4,2.04946361,Low Risk
+56,7/9/2023,Maintenance have been done,0.5426475,1,1.8279424999999998,Low Risk
+57,8/9/2023,Maintenance have been done,0.3427457,8,2.6282370999999998,Low Risk
+58,9/9/2023,Maintenance have been done,0.5421377,6,2.8264131,Low Risk
+59,10/9/2023,Maintenance have been done,0.57391644,3,2.32174932,Low Risk
+60,11/9/2023,Maintenance have been done,0.8870211,9,4.4610633,Medium Risk
+61,12/9/2023,Maintenance have been done,0.99523854,5,3.98571562,Low Risk
+62,13/9/2023,Maintenance have been done,0.99988884,2,3.39966652,Low Risk
+63,14/9/2023,Maintenance have been done,1.0,7,4.4,Medium Risk
+64,15/9/2023,Maintenance have been done,1.0,10,5.0,Medium Risk
+65,16/9/2023,Maintenance have been done,0.97864324,4,3.7359297199999997,Low Risk
+66,17/9/2023,Maintenance have been done,0.7941988,1,2.5825964,Low Risk
+67,18/9/2023,Maintenance have been done,1.0,9,4.8,Medium Risk
+68,19/9/2023,Maintenance have been done,0.93642724,3,3.40928172,Low Risk
+69,20/9/2023,Maintenance have been done,0.98644894,6,4.1593468200000006,Medium Risk
+70,21/9/2023,Maintenance have been done,0.6904325,8,3.6712975,Low Risk
+71,22/9/2023,Maintenance have been done,0.33223122,2,1.39669366,Low Risk
+72,23/9/2023,Maintenance have been done,0.46941116,5,2.40823348,Low Risk
+73,24/9/2023,Maintenance have been done,0.40681186,10,3.22043558,Low Risk
+74,25/9/2023,Maintenance have been done,0.3309424,7,2.3928272,Low Risk
+75,26/9/2023,Maintenance have been done,0.38353664,4,1.95060992,Low Risk
+76,27/9/2023,Maintenance have been done,0.3312817,1,1.1938451,Low Risk
+77,28/9/2023,Maintenance have been done,0.2558873,6,1.9676619000000002,Low Risk
+78,29/9/2023,Maintenance have been done,0.34543002,3,1.63629006,Low Risk
+79,30/9/2023,Maintenance have been done,0.42420006,9,3.0726001800000002,Low Risk
+80,1/10/2023,Maintenance have been done,0.31278947,8,2.5383684100000004,Low Risk
+81,2/10/2023,Maintenance have been done,0.3924199,2,1.5772597,Low Risk
+82,3/10/2023,Maintenance have been done,0.5034683,7,2.9104049,Low Risk
+83,4/10/2023,Maintenance have been done,0.3294531,4,1.7883593,Low Risk
+84,5/10/2023,Maintenance have been done,0.36961764,10,3.1088529200000004,Low Risk
+85,6/10/2023,Maintenance have been done,0.3744504,5,2.1233512,Low Risk
+86,7/10/2023,Maintenance have been done,0.4842146,1,1.6526437999999999,Low Risk
+87,8/10/2023,Maintenance have been done,0.51096684,8,3.13290052,Low Risk
+88,9/10/2023,Maintenance have been done,0.37102926,6,2.31308778,Low Risk
+89,10/10/2023,Maintenance have been done,0.40774626,3,1.82323878,Low Risk
+90,11/10/2023,Maintenance have been done,0.3773028,9,2.9319084,Low Risk
+91,12/10/2023,Maintenance have been done,0.29560935,2,1.28682805,Low Risk
+92,13/10/2023,Maintenance have been done,0.34387717,7,2.43163151,Low Risk
+93,14/10/2023,Maintenance have been done,0.23918293,4,1.51754879,Low Risk
+94,15/10/2023,Maintenance have been done,0.40332288,10,3.20996864,Low Risk
+95,16/10/2023,Maintenance have been done,0.492181,5,2.476543,Low Risk
+96,17/10/2023,Maintenance have been done,0.3816331,1,1.3448993,Low Risk
+97,18/10/2023,Maintenance have been done,0.21999252,8,2.2599775600000003,Low Risk
+98,19/10/2023,Maintenance have been done,0.39589092,6,2.38767276,Low Risk
+99,20/10/2023,Maintenance have been done,0.3367313,3,1.6101939,Low Risk
+100,21/10/2023,Maintenance have been done,0.37987432,9,2.9396229600000003,Low Risk
+101,22/10/2023,Maintenance have been done,0.41905934,2,1.65717802,Low Risk
+102,23/10/2023,Maintenance have been done,0.44260466,7,2.72781398,Low Risk
+103,24/10/2023,Maintenance have been done,0.34167388,4,1.82502164,Low Risk
+104,25/10/2023,Maintenance have been done,0.3592491,10,3.0777473,Low Risk
+105,26/10/2023,Maintenance have been done,0.2677655,7,2.2032965,Low Risk
+106,27/10/2023,Maintenance have been done,0.41852462,7,2.6555738600000005,Low Risk
+107,28/10/2023,Maintenance have been done,0.37196878,8,2.71590634,Low Risk
+108,29/10/2023,Maintenance have been done,0.3593526,9,2.8780578,Low Risk
+109,30/10/2023,Maintenance have been done,0.2400387,8,2.3201161,Low Risk
+110,31/10/2023,Maintenance have been done,0.19696377,10,2.59089131,Low Risk
+111,1/11/2023,Maintenance have been done,0.45842582,10,3.37527746,Low Risk
+112,2/11/2023,Maintenance have been done,0.80349255,10,4.41047765,Medium Risk
+113,3/11/2023,Maintenance have been done,0.79363847,8,3.98091541,Low Risk
+114,4/11/2023,Maintenance have been done,0.73167735,9,3.99503205,Low Risk
+115,5/11/2023,Maintenance have been done,0.71085835,10,4.13257505,Medium Risk
+116,6/11/2023,Maintenance have been done,0.94401485,7,4.23204455,Medium Risk
+117,7/11/2023,Maintenance have been done,1.0,8,4.6,Medium Risk
+118,8/11/2023,No Maintenance,0.9752098,10,9.9256294,High Risk
+119,9/11/2023,No Maintenance,1.0,10,10.0,High Risk
+120,10/11/2023,No Maintenance,0.8426989,10,9.528096699999999,High Risk
+121,11/11/2023,No Maintenance,0.9708628,10,9.9125884,High Risk
+122,12/11/2023,No Maintenance,0.98854446,10,9.96563338,High Risk
+123,13/11/2023,No Maintenance,0.95004755,10,9.85014265,High Risk
+124,14/11/2023,No Maintenance,0.8895539,10,9.6686617,High Risk
+125,15/11/2023,No Maintenance,0.9684474,10,9.9053422,High Risk
+126,16/11/2023,No Maintenance,0.87288874,10,9.61866622,High Risk
+127,17/11/2023,No Maintenance,1.0,10,10.0,High Risk
+128,18/11/2023,No Maintenance,0.9995697,10,9.9987091,High Risk
+129,19/11/2023,No Maintenance,0.8881205,10,9.6643615,High Risk
+130,20/11/2023,No Maintenance,1.0,10,10.0,High Risk
+131,21/11/2023,No Maintenance,1.0,10,10.0,High Risk
+132,22/11/2023,No Maintenance,0.96449554,10,9.893486620000001,High Risk
+133,23/11/2023,No Maintenance,0.93184394,10,9.79553182,High Risk
+134,24/11/2023,No Maintenance,0.96634316,10,9.89902948,High Risk
+135,25/11/2023,No Maintenance,0.9228674,10,9.7686022,High Risk
+136,26/11/2023,No Maintenance,1.0,10,10.0,High Risk
+137,27/11/2023,No Maintenance,0.98973674,10,9.96921022,High Risk
+138,28/11/2023,No Maintenance,1.0,10,10.0,High Risk
+139,29/11/2023,No Maintenance,0.95452875,10,9.86358625,High Risk
+140,30/11/2023,No Maintenance,0.9808546,10,9.9425638,High Risk
+141,1/12/2023,No Maintenance,0.9573794,10,9.8721382,High Risk
+142,2/12/2023,No Maintenance,0.9298814,10,9.7896442,High Risk
+143,3/12/2023,No Maintenance,0.9307379,10,9.7922137,High Risk
+144,4/12/2023,No Maintenance,0.9979278,10,9.9937834,High Risk
+145,5/12/2023,No Maintenance,1.0,10,10.0,High Risk
+146,6/12/2023,No Maintenance,1.0,10,10.0,High Risk
+147,7/12/2023,No Maintenance,0.97499603,10,9.92498809,High Risk
+148,8/12/2023,Maintenance have been done,0.9670067,6,4.1010201,Medium Risk
+149,9/12/2023,Maintenance have been done,0.8575376,7,3.9726128000000003,Low Risk
+150,10/12/2023,Maintenance have been done,0.87447304,6,3.8234191200000005,Low Risk
+151,11/12/2023,Maintenance have been done,0.9316686,5,3.7950057999999998,Low Risk
+152,12/12/2023,Maintenance have been done,0.96671903,4,3.7001570900000003,Low Risk
+153,13/12/2023,Maintenance have been done,0.9302756,3,3.3908268,Low Risk
+154,14/12/2023,Maintenance have been done,0.93163186,2,3.19489558,Low Risk
+155,15/12/2023,Maintenance have been done,0.7697421,3,2.9092263,Low Risk
+156,16/12/2023,Maintenance have been done,0.9096202,9,4.5288606,Medium Risk
+157,17/12/2023,Maintenance have been done,0.8649022,2,2.9947065999999998,Low Risk
+158,18/12/2023,Maintenance have been done,1.0,7,4.4,Medium Risk
+159,19/12/2023,Maintenance have been done,0.9391635,4,3.6174904999999997,Low Risk
+160,20/12/2023,Maintenance have been done,0.9462145,10,4.8386435,Medium Risk
+161,21/12/2023,Maintenance have been done,0.96443933,5,3.89331799,Low Risk
+162,22/12/2023,Maintenance have been done,0.8986302,1,2.8958906000000004,Low Risk
+163,23/12/2023,Maintenance have been done,0.9402334,5,3.8207002,Low Risk
+164,24/12/2023,Maintenance have been done,0.86931425,6,3.80794275,Low Risk
+165,25/12/2023,Maintenance have been done,0.88413376,3,3.25240128,Low Risk
+166,26/12/2023,Maintenance have been done,1.0,9,4.8,Medium Risk
+167,27/12/2023,Maintenance have been done,0.9348794,2,3.2046382,Low Risk
+168,28/12/2023,Maintenance have been done,0.923863,7,4.171589,Medium Risk
+169,29/12/2023,Maintenance have been done,1.0,4,3.8,Low Risk
+170,30/12/2023,Maintenance have been done,0.9391183,10,4.8173549,Medium Risk
+171,31/12/2023,Maintenance have been done,0.5859527,5,2.7578581,Low Risk

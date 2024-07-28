@@ -1,0 +1,69 @@
+File,Issue,Date,Details
+2010875,Software,1/4/2020,1) Hang issue
+2010875,Software,1/4/2020,2) System recovered
+2010876,Software,3/4/2020,1) No hang issue
+2010876,Software,3/4/2020,2) System hang once
+2010876,Software,3/4/2020,3) No abnormalities
+2010876,Software,3/4/2020,4) Further do test
+2010879,None,8/4/2020,1) Checked mounting bolts. All ok. 
+2010879,None,8/4/2020,2) Checked AC and DC voltages. All within range. ok. 
+2010879,None,8/4/2020,3) Checked and cleaned slit section. ok. 
+2010879,None,8/4/2020,4) Checked and cleaned large current slip ring. ok. 
+2010879,None,8/4/2020,5) Cleaned all fans and filters. ok. 
+2010879,None,8/4/2020,"6) General cleaning on gantry, couch, console box. ok. "
+2010879,None,8/4/2020,7) Performed IF adjustment. ok. 
+2010879,None,8/4/2020,8) Performed NRA calibration for all for. ok. 
+2010879,None,8/4/2020,9) Image quality checked. All ok. 
+2010879,None,8/4/2020,10) System is in good working condition. ok. 
+2010879,None,8/4/2020,"11) EST done, All pass. ok."
+2012825,None,20/9/2020,1) Checked mounting bolts. All OK. 
+2012825,None,20/9/2020,2) Checked AC and DC voltages. All normal. ok. 
+2012825,None,20/9/2020,3) Checked and cleaned all fans and filters. ok. 
+2012825,None,20/9/2020,4) Checked and cleaned large current slip ring. ok. 
+2012825,None,20/9/2020,"5) General cleaning on gantry, couch, navi assy. ok. "
+2012825,None,20/9/2020,6) Performed If adjustment. ok. 
+2012825,None,20/9/2020,7) Performed NRA calibration. ok. 
+2012825,None,20/9/2020,8) Performed image quality check. All ok. 
+2012825,None,20/9/2020,9) EST pass. ok. 
+2012825,None,20/9/2020,10) System is in good operation condition. ok. 
+2012826,Gantry,27/9/2020,1) Removed existing x-ray tube with the heat exchanger. ok.
+2012826,Gantry,27/9/2020,2) Installed new X-ray tube with Heat exchanger. ok. 
+2012826,Gantry,27/9/2020,3) Secured all cable and connections. ok. 
+2012826,Gantry,27/9/2020,4) Test scan done. All ok. 
+2012826,Gantry,27/9/2020,5) Performed If adjustment. ok. 
+2012826,Gantry,27/9/2020,6) Performed x-ray tube alignment. All within range. ok. 
+2012826,Gantry,27/9/2020,7) Performed x-ray tube seasoning. ok 
+2012826,Gantry,27/9/2020,8) Performed NRA and air calibration. ok. 
+2012826,Gantry,27/9/2020,9) Image quality checked. All within specification. ok. 
+2012826,Gantry,27/9/2020,"10) QA for new tube was done by QA accessor, Mr Fazmil. ok. "
+2012826,Gantry,27/9/2020,11) All the QA tests pass and within specification and regulation. ok. 
+2012826,Gantry,27/9/2020,12) System is up and operational. ok. 
+2014759,Mechanical,22/9/2020,1) Checked the sound with end user.
+2014759,Mechanical,22/9/2020,2) Sound (clicking sound) only happens when the gantry stop rotates. ok. 
+2014759,Mechanical,22/9/2020,3) Explained to end user that it is the brake engagement. ok. 
+2014759,Mechanical,22/9/2020,4) User request to remove the sound if possible. ok. 
+2014759,Mechanical,22/9/2020,5) Release the auto home brake. ok. 
+2014759,Mechanical,22/9/2020,6) No more mechanical brake sound when gantry stop rotate. ok.
+2014760,Software,27/7/2020,"1) Checked the log, no error was recorded. ok. "
+2014760,Software,27/7/2020,"2) Checked the raw data, and rescan again, no issue, however, it was found that the scanning was a short distance instead of full distance of patient. ok. "
+2014760,Software,27/7/2020,"3) Explained to end user that if the system detects an error during arterial phase, it will prompt an error and would not continue scanning the venous phase. ok. "
+2014760,Software,27/7/2020,4) will monitor if it happens again. ok.
+2014761,Gantry,27/5/2020,1) Checked log and found arcing error. ok. 
+2014761,Gantry,27/5/2020,2) Performed If adjustment. If points shifted. ok. 
+2014761,Gantry,27/5/2020,"3) Discuss with end user that if it happens again, we will prepare for x-ray tube replacement. ok. "
+2014761,Gantry,27/5/2020,"4) otherwise, system is still able to perform scanning. one time error. ok. "
+2014761,Gantry,27/5/2020,5) will monitor closely and regularly. ok. 
+2014762,Mechanical,8/5/2020,1) Checked physical. Found that the table cannot move horizontally. ok. 
+2014762,Mechanical,8/5/2020,2) Found that the table hands free holder is touching the base of the couch cover. ok. 
+2014762,Mechanical,8/5/2020,3) Readjust the clearance. Table can move in and out without stuck and no more error in table movement. ok. 
+2017507,Gantry,10/4/2021,1) Removed the existing x-ray tube. ok. 
+2017507,Gantry,10/4/2021,2) Installed the new x-ray tube. ok. 
+2017507,Gantry,10/4/2021,3) Secure all cables and connection. ok. 
+2017507,Gantry,10/4/2021,"4) Test scan done. All ok, performed full warm up. ok. "
+2017507,Gantry,10/4/2021,5) Performed If adjustment. ok. 
+2017507,Gantry,10/4/2021,6) Performed X-ray tube alignment. ok. 
+2017507,Gantry,10/4/2021,7) Performed NRA calibration. ok. 
+2017507,Gantry,10/4/2021,8) Image quality checked. All ok. 
+2017507,Gantry,10/4/2021,9) QC test done. All pass ok. 
+2017507,Gantry,10/4/2021,10) EST done: i)Enclosure leakage: 7uA ii) Patient leakage: 0ua. } pass. 
+2017507,Gantry,10/4/2021,11) System is in good working condition. ok.
